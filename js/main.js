@@ -3709,7 +3709,7 @@
     Object.defineProperty(t, "__esModule", {
         value: !0
     });
-    var i, r, s = o(5), a = "/json/config.json", l = function(e) {
+    var i, r, s = o(5), a = "/TweenMaxAnimation/json/config.json", l = function(e) {
         function t() {
             var t = null !== e && e.apply(this, arguments) || this;
             return t._onErrorXHR = function() {
